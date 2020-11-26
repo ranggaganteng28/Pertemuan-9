@@ -10,8 +10,7 @@
 | 2. | Tugas Praktium 4 | [penjelasan](#TugasPraktikum-4) | 
 
 ## TugasLatihan 4
-![gambar output](gambar/latihan4.PNG)
-
+![latihan4](https://user-images.githubusercontent.com/73011940/100312539-32216e00-2fe5-11eb-9220-a75ad57f2e6e.PNG)
 ## Hasil Source Code
 ```python
 #rangga
@@ -40,10 +39,9 @@ print ("mengabungkan list A dan B : " ,dataa + datab)
 print("══════════════════════════════════════")
 ```
 ## Hasil Output 
-![gambar output](gambar/Hasillatihan4.png)
-
+![Hasillatihan4 png](https://user-images.githubusercontent.com/73011940/100312545-364d8b80-2fe5-11eb-97cd-11a86d7556e8.png)
 ## TugasPraktikum 4
-![gambar output](gambar/soalpraktikum4.PNG)
+![soalpraktikum4](https://user-images.githubusercontent.com/73011940/100312551-39e11280-2fe5-11eb-925a-8b3e6055f317.PNG)
 
 ## Hasil Source Code
 ```python
@@ -121,7 +119,8 @@ for item in nilai:
 print("==================================================================")
 ```
 Berikut hasil dari program data mahasiswa 
-![gambar output](gambar/hasilpraktikum4.png)
+![Hasilpraktikum5 png](https://user-images.githubusercontent.com/73011940/100312557-3d749980-2fe5-11eb-8f26-148647233e37.png)
+
 
 
 
